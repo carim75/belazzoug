@@ -1,0 +1,11 @@
+---------------------------------INTRODUCTION-------------------------------------
+  
+
+  definition du PHP :
+
+  PHP Hypertext Preprocessor est un langage de progrmation de script, open source, specialement conçue pour le devgelopemment de site web. Il s'agit dun language interprété coté serveur (back).
+
+
+  Définition serveur HTTP : 
+
+  la fonction principal d'un serveur web ou encore appelé HTTP est de stocker et de délivrer des pages web en répondand a une requete HTTP. le protocole de communication Hypertext Transfert protocole(HTTP) permet de dialoguer avec le logiciel client, généralement un naviguateur web.
